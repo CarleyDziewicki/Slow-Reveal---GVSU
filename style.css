@@ -47,7 +47,9 @@
             display: block;
         }
 
-        .grid {
+
+         /* EDIT THIS FOR EACH VISUALIZATION */
+       /* .grid {
             position: absolute;
             top: 0;
             left: 0;
@@ -58,7 +60,7 @@
             display: grid;
             grid-template: 7.004913430042115% 78.05474964904072% 9% 5.940336920917174% / 7% 93%;
             grid-template-areas: 'title title' 'yAxis graph' 'xAxis xAxis' 'source source';
-        }
+        } */
 
         .title {
             grid-area: title;
